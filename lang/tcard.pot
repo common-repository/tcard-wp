@@ -1,0 +1,846 @@
+# Copyright (C) 2018 tcard
+# This file is distributed under the same license as the tcard package.
+msgid ""
+msgstr ""
+"Project-Id-Version: tcard\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-20 19:44+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin/TcardAdmin.php:304
+msgid "element "
+msgstr ""
+
+#: admin/TcardAdmin.php:316 admin/templates/TcardDashboard.php:173
+msgid "Order by:"
+msgstr ""
+
+#: admin/TcardAdmin.php:326 admin/templates/TcardDashboard.php:183
+msgid "Order:"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:23
+msgid "Select group:"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:38
+msgid "or"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:39
+msgid "Create a new group"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:43
+msgid "Total skins:"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:53
+msgid "Group - "
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:58
+msgid "Group name"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:60
+#, php-format
+msgid "If you want to display %s name of this group %s set this option true"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:66
+msgid "Turn off flip"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:67
+msgid "Default: true"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:71
+msgid "Tcard on"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:72
+msgid "Default: button"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:76
+msgid "Animations front"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:77
+msgid "Default: ready"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:81
+msgid "Animations once"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:82 admin/templates/TcardDashboard.php:87
+#: admin/templates/TcardDashboard.php:97
+#: admin/templates/TcardDashboard.php:112 admin/templates/TcardSkins.php:50
+#: admin/templates/TcardSkins.php:55 admin/templates/TcardSkins.php:84
+#: admin/templates/TcardSkins.php:140 admin/templates/TcardSkins.php:145
+#: admin/templates/TcardSkins.php:173 admin/templates/TcardSkins.php:178
+msgid "Default: false"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:86
+msgid "Random color"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:91
+msgid "Count time"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:92
+msgid "Default: 900"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:96
+msgid "Individual gallery"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:101
+msgid "Autocomplete"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:102
+msgid "Default: off"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:106
+msgid "Container"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:107
+msgid "Default: fixed"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:111
+msgid "Widget group"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:130
+msgid "Set group name:"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:134
+msgid "Select Skin:"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:146
+msgid "Header"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:147
+msgid "Content"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:148
+msgid "Footer"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:149
+msgid "Social"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:155
+msgid "Twitter Profile"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:158
+msgid "Twitter feed"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:164
+msgid "Select category:"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:191
+msgid "Bootstrap:"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:199
+msgid " - This option will be applied for all tcard groups"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:200
+msgid ""
+" - If you already have installed one of this bootstrap version just let "
+"empty select area"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:204
+msgid "How to use"
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:205
+msgid ""
+"To display your tcard group, add the following shortcode (blue) to your "
+"page. If adding the tcard group to your theme files, additionally include "
+"the surrounding PHP function (magenta)."
+msgstr ""
+
+#: admin/templates/TcardDashboard.php:207
+msgid "Copy all"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:49
+msgid "Cubicbezier"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:54 admin/templates/TcardSkins.php:139
+#: admin/templates/TcardSkins.php:172
+msgid "Frostedglass"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:59
+msgid "Viewport In"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:61
+#, php-format
+msgid "Default: false %s if is empty"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:67
+msgid "Viewport Out"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:69
+#, php-format
+msgid "Default: false %s if Viewport In is empty"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:75
+msgid "Set viewIn"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:77
+#, php-format
+msgid "Default: %s"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:83
+msgid "Widget Skin"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:89
+msgid "Extra small"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:91 admin/templates/TcardSkins.php:99
+#: admin/templates/TcardSkins.php:107 admin/templates/TcardSkins.php:115
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:97
+msgid "Small"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:105
+msgid "Medium"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:113
+msgid "Large"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:121
+msgid "Extra large"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:123
+#, php-format
+msgid "Width: %s only for bootstrap 4"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:131 admin/templates/TcardSkins.php:164
+msgid "Background color"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:135 admin/templates/TcardSkins.php:168
+msgid "Background image"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:144 admin/templates/TcardSkins.php:177
+msgid "Frostedglass background image"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:149 admin/templates/TcardSkins.php:182
+msgid "Frostedglass opacity"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:150 admin/templates/TcardSkins.php:183
+msgid "Default: 0.5"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:154 admin/templates/TcardSkins.php:187
+msgid "Background image Content"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:158 admin/templates/TcardSkins.php:191
+msgid "Background image Header"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:197
+msgid "Twitter username"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:198
+msgid "Username without @ character"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:202
+msgid "Twitter access token"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:206
+msgid "Twitter access token secret"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:210
+msgid "Twitter consumer key"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:214
+msgid "Twitter consumer secret"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:309
+msgid "Gallery:"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:311
+msgid "Assigns to"
+msgstr ""
+
+#: admin/templates/TcardSkins.php:320
+msgid "Thumbnail title:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:21
+msgid "Content:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:23
+#: admin/templates/elements/TcardFooterElements.php:23
+msgid "Add Item"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:28
+#: admin/templates/elements/TcardFooterElements.php:28
+#: admin/templates/elements/TcardHeaderElements.php:51
+msgid "Settings"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:29
+#: admin/templates/elements/TcardFooterElements.php:29
+#: admin/templates/elements/TcardHeaderElements.php:52
+msgid "Text"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:30
+#: admin/templates/elements/TcardFooterElements.php:30
+#: admin/templates/elements/TcardHeaderElements.php:53
+msgid "Animations"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:37
+msgid "Add Slide"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:48
+msgid "Skills type:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:55
+msgid "Skill percent:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:86
+#: admin/templates/elements/TcardContentElements.php:308
+#: admin/templates/elements/TcardContentElements.php:370
+#: admin/templates/elements/TcardFooterElements.php:117
+#: admin/templates/elements/TcardHeaderElements.php:63
+#: admin/templates/elements/TcardHeaderElements.php:76
+#: inc/widgets/TcardWidgetClass.php:196
+msgid "Title:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:94
+#: admin/templates/elements/TcardContentElements.php:129
+#: admin/templates/elements/TcardContentElements.php:375
+#: admin/templates/elements/TcardFooterElements.php:125
+#: admin/templates/elements/TcardHeaderElements.php:84
+msgid "Description:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:116
+msgid "Text:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:116
+msgid "tag"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:141
+#: admin/templates/elements/TcardHeaderElements.php:97
+msgid "Image:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:141
+#: admin/templates/elements/TcardHeaderElements.php:97
+#, php-format
+msgid "Image size: %s"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:143
+#: inc/elements-class/TcardSettings.php:193
+msgid "Upload Image"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:154
+#: admin/templates/elements/TcardContentElements.php:171
+#: admin/templates/elements/TcardHeaderElements.php:110
+#: admin/templates/elements/TcardHeaderElements.php:127
+#: admin/templates/elements/TcardHeaderElements.php:212
+msgid "Button Type:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:154
+msgid "If the gallery exists"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:167
+#: admin/templates/elements/TcardContentElements.php:236
+#: admin/templates/elements/TcardContentElements.php:331
+#: admin/templates/elements/TcardHeaderElements.php:123
+msgid "Email:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:171
+msgid "If is an email set:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:236
+msgid "Default: admin email"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:259
+msgid "Submit button:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:259
+msgid "Default:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:269
+msgid "Login title:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:274
+msgid "Label login:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:274
+msgid "Default: Login"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:279
+msgid "Label password:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:279
+msgid "Default: Password"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:284
+msgid "Label button:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:284
+msgid "Default: Submit"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:289
+msgid "Remember password:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:289
+msgid "Default: Remember me"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:295
+msgid "After Login display:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:295
+msgid "Clear"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:315
+msgid "Message to user:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:315
+msgid "Default: Hello"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:319
+msgid "Logout button:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:319
+msgid "Default: Logout"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:320
+#: front/templates/elements/TcardContentElements.php:287
+msgid "Logout"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:327
+msgid "Address:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:335 inc/TcardForms.php:55
+msgid "Phone:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:339
+msgid "Phone 2:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:381
+msgid "Button Text:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:385
+msgid "Button Link:"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:433
+msgid "Max words"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:437
+msgid "Button Text"
+msgstr ""
+
+#: admin/templates/elements/TcardContentElements.php:448
+msgid "Type"
+msgstr ""
+
+#: admin/templates/elements/TcardFooterElements.php:21
+msgid "Footer:"
+msgstr ""
+
+#: admin/templates/elements/TcardFooterElements.php:41
+msgid "Button type:"
+msgstr ""
+
+#: admin/templates/elements/TcardFooterElements.php:50
+msgid "Button URL:"
+msgstr ""
+
+#: admin/templates/elements/TcardFooterElements.php:55
+msgid "Button Name:"
+msgstr ""
+
+#: admin/templates/elements/TcardFooterElements.php:59
+msgid "Extra Text:"
+msgstr ""
+
+#: admin/templates/elements/TcardFooterElements.php:139
+msgid "Item Title:"
+msgstr ""
+
+#: admin/templates/elements/TcardHeaderElements.php:27
+msgid "Button:"
+msgstr ""
+
+#: admin/templates/elements/TcardHeaderElements.php:46
+msgid "Header:"
+msgstr ""
+
+#: admin/templates/elements/TcardHeaderElements.php:127
+msgid "If is an email set"
+msgstr ""
+
+#: admin/templates/elements/TcardHeaderElements.php:188
+msgid "Position:"
+msgstr ""
+
+#: admin/templates/elements/TcardHeaderElements.php:199
+msgid "Style:"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:33
+msgid "Display user name"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:36
+msgid "Display biography section"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:39
+msgid "Shows user location"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:42
+msgid "Display profile image "
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:45
+msgid "Display profile banner"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:48
+msgid "Display user website"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:52
+#, php-format
+msgid "Need special permissions %s Look %s here %s"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:58
+#, php-format
+msgid "Display how many tweets %s the user has sent"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:63
+msgid "Display number of followers"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:66
+msgid "Display number of friends"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:69
+msgid "Display number of lists"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:86
+#: admin/templates/elements/TcardSocialElements.php:99
+#: admin/templates/elements/TcardSocialElements.php:118
+msgid ":"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:110
+msgid "Counts:"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:129
+msgid "Type:"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:131
+msgid "Slider"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:132
+msgid "Scroll"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:137
+msgid "Tweets number:"
+msgstr ""
+
+#: admin/templates/elements/TcardSocialElements.php:137
+msgid "Default: 20"
+msgstr ""
+
+#: front/templates/elements/TcardContentElements.php:176
+msgid "Create account"
+msgstr ""
+
+#: front/templates/elements/TcardContentElements.php:183
+msgid "Send Message"
+msgstr ""
+
+#: front/templates/elements/TcardContentElements.php:283
+msgid "Hello"
+msgstr ""
+
+#: front/templates/elements/TcardContentElements.php:330
+msgid "Username"
+msgstr ""
+
+#: front/templates/elements/TcardContentElements.php:331
+msgid "Password"
+msgstr ""
+
+#: front/templates/elements/TcardContentElements.php:332
+msgid "Login"
+msgstr ""
+
+#: front/templates/elements/TcardContentElements.php:333
+msgid "Remember me"
+msgstr ""
+
+#: inc/TcardForms.php:61
+msgid "Company:"
+msgstr ""
+
+#: inc/TcardForms.php:67
+msgid "Website:"
+msgstr ""
+
+#: inc/TcardForms.php:99
+#, php-format
+msgid "Thank %s for your message. It has been sent."
+msgstr ""
+
+#: inc/TcardForms.php:104
+msgid "There was an error trying to send your message. Please try again later."
+msgstr ""
+
+#: inc/TcardForms.php:164
+msgid "Required form field is missing"
+msgstr ""
+
+#: inc/TcardForms.php:169
+msgid "Username too short. At least 4 characters is required"
+msgstr ""
+
+#: inc/TcardForms.php:174
+msgid "Sorry, that username already exists!"
+msgstr ""
+
+#: inc/TcardForms.php:179
+msgid "Sorry, the username you entered is not valid"
+msgstr ""
+
+#: inc/TcardForms.php:184
+msgid "Password length must be greater than 5"
+msgstr ""
+
+#: inc/TcardForms.php:190
+msgid "Passwords do not match"
+msgstr ""
+
+#: inc/TcardForms.php:196
+msgid "Email is not valid"
+msgstr ""
+
+#: inc/TcardForms.php:201
+msgid "Email Already in use"
+msgstr ""
+
+#: inc/TcardForms.php:207
+msgid "Website URL is not valid"
+msgstr ""
+
+#: inc/TcardForms.php:254
+msgid "The username field is empty."
+msgstr ""
+
+#: inc/TcardForms.php:257
+msgid "The password field is empty."
+msgstr ""
+
+#: inc/TcardForms.php:260
+#, php-format
+msgid "There is no account created with this username %s"
+msgstr ""
+
+#: inc/TcardForms.php:264
+#, php-format
+msgid "There is no user registered with this email address %s"
+msgstr ""
+
+#: inc/TcardForms.php:268
+msgid "The email field is empty."
+msgstr ""
+
+#: inc/TcardForms.php:271
+#, php-format
+msgid ""
+"The password you entered for the username %s is incorrect. %s Did you forget "
+"your password ? %s"
+msgstr ""
+
+#: inc/elements-class/TcardAnimations.php:45
+msgid "Animation In:"
+msgstr ""
+
+#: inc/elements-class/TcardAnimations.php:54
+msgid "Animation Out:"
+msgstr ""
+
+#: inc/elements-class/TcardAnimations.php:72
+msgid "Delay:"
+msgstr ""
+
+#: inc/elements-class/TcardContent.php:169
+msgid "Email"
+msgstr ""
+
+#: inc/elements-class/TcardContent.php:170
+msgid "First name"
+msgstr ""
+
+#: inc/elements-class/TcardContent.php:171
+msgid "Last name"
+msgstr ""
+
+#: inc/elements-class/TcardContent.php:172
+msgid "Display name"
+msgstr ""
+
+#: inc/elements-class/TcardContent.php:173
+msgid "Description"
+msgstr ""
+
+#: inc/elements-class/TcardContent.php:174
+msgid "Nickname"
+msgstr ""
+
+#: inc/elements-class/TcardContent.php:175
+msgid "Website"
+msgstr ""
+
+#: inc/elements-class/TcardContent.php:317
+msgid "item"
+msgstr ""
+
+#: inc/elements-class/TcardContent.php:320
+msgid "skill"
+msgstr ""
+
+#: inc/elements-class/TcardContent.php:329
+#: inc/elements-class/TcardHeader.php:148
+msgid "Is set"
+msgstr ""
+
+#: inc/elements-class/TcardContent.php:342
+#: inc/elements-class/TcardFooter.php:229
+#: inc/elements-class/TcardHeader.php:274
+msgid "empty"
+msgstr ""
+
+#: inc/elements-class/TcardSettings.php:38
+msgid "settings"
+msgstr ""
+
+#: inc/elements-class/TcardSettings.php:284
+msgid "Set columns"
+msgstr ""
+
+#: inc/widgets/TcardWidgetClass.php:40
+msgid "Tcard Widget"
+msgstr ""
+
+#: inc/widgets/TcardWidgetClass.php:192
+msgid "New title"
+msgstr ""
